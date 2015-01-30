@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--general-->
+    <color name="black">#000000</color>
+    <color name="dark_dark_grey">#282828</color>
+
+    <!--button normal-->
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#aac6c6c6</color>
+    <color name="light_grey">#dfe0ef</color>
+
+    <!-- button pressed-->
+    <color name="aquamarine">#ff3effff</color>
+    <color name="light_blue">#aa54fffd</color>
+    <color name="salad">#ff1aefc3</color>
+
+</resources>

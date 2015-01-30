@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fifteen</string>
+
+    <!--Congratulation-->
+    <string name="congratulation_alert_title">Congratulation</string>
+    <string name="congratulation_alert_message_part_1">You have won! It took</string>
+    <string name="congratulation_alert_message_part_2">and</string>
+    <string name="congratulation_alert_message_part_3">swaps.</string>
+    <string name="congratulation_ok_string">OK</string>
+
+    <!--New Game Confirmation-->
+    <string name="confirmation_alert_title">Are you sure? </string>
+    <string name="confirmation_alert_message">Do you really want to start a new game?
+        All current progress will be lost.</string>
+    <string name="confirmation_ok_string">OK</string>
+    <string name="confirmation_cancel_string">Cancel</string>
+
+    <!--Menu-->
+    <string name="action_new_game_string">New Game</string>
+    <string name="action_records_string">Records</string>
+
+</resources>
